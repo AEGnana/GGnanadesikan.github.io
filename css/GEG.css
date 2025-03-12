@@ -3,10 +3,7 @@
 body {
 	font-family: source-sans-pro;
 	background-color: #FFFFFF;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
+	margin: 0px;
 	font-style: normal;
 	font-weight: 500;
 }
@@ -227,7 +224,7 @@ footer {
 	font-weight: 500;
 	text-align: center;
 }
-.footer_column {
+.single_column {
 text-align: left;
 	padding-top: 30px;
 	max-width: 100%;
@@ -472,7 +469,7 @@ nav ul li {
 .thumbnail {
 	width: 100%;
 }
-.footer_column {
+.single_column {
 	width: 100%;
 	margin-top: 0px;
 }
